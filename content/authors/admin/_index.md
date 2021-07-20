@@ -6,7 +6,7 @@ title: Luoyao Chen
 superuser: true
 
 # Role/position/tagline
-role: MSDS student
+role: Data Science, MS
 
 # Organizations/Affiliations to show in About widget
 organizations:
